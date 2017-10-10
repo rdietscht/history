@@ -41,7 +41,7 @@ In 2006, Mike Ripley became advisor for the UUG.
 The UUG constitution was authored by David Wilburn on October 25, 1999. The earliest references to the UUG receiving university recognition are in 2001.
 
 ## 1997
-The earliest UUG references are to the "Linux SIG" of the JMU ACM chapter. The orginal members were:
+The earliest UUG references are to the "Linux SIG" of the JMU ACM chapter. The original members were:
 * James Money - ACM Vice President 
 * Brian Brock
 * Jason Cooper
