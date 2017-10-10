@@ -1,5 +1,35 @@
 # Officers of the UUG
 
+## 2017-2018
+* Kyle Laker - President
+* Richard Bimmer - Vice President
+* Chris Frome - Secretary
+* Mike McGloin - Treasurer
+
+## 2016-2017
+* Pavan Gudimetta - President
+* Kyle Laker - Vice President
+* James Battle - Secretary
+* Alex Flores - Treasurer
+
+## 2015-2016
+* Justin Magnotti - President
+* Pavan Gudimetta - Vice President
+* Steven Young - Secretary
+* Nick Barrett - Treasurer
+
+## 2014-2015
+* Justin Magnotti - President
+* Pavan Gudimetta - Vice President
+* Morgan Barksdale - Secretary
+* Abigail Liskey - Treasurer
+
+## 2007-2008
+* Kris Kalish - President
+* Cory Gillespie - Vice President
+* Tyler Badorrek - Secretary
+* Andrew Elgert - Treasurer
+
 ## 2006-2007
 In 2006, Mike Ripley became advisor for the UUG.
 * John Magnotti - President
