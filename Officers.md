@@ -84,7 +84,10 @@ In 2006, Mike Ripley became advisor for the UUG.
 * Jim Blackburn - Treasurer 
 
 ## 2000-2001
+* Chris Soghoian - President
 * Brian Caswell - Vice President
+* Brian Norton - Secretary
+* Chris Fauerbach - Treasurer
 
 ## 1999-2000
 The UUG constitution was authored by David Wilburn on October 25, 1999, and the first meetings were held that year. Scott Dellinger was the staff advisor.
