@@ -24,6 +24,22 @@
 * Morgan Barksdale - Secretary
 * Abigail Liskey - Treasurer
 
+## 2013-2014
+
+## 2012-2013
+
+## 2011-2012
+
+## 2010-2011
+* Kyle Ames - President
+* Peter Amaral - Vice President
+* Amber Logsdon - Secretary
+* Vincent Smith - Treasurer
+
+## 2009-2010
+
+## 2008-2009
+
 ## 2007-2008
 * Kris Kalish - President
 * Cory Gillespie - Vice President
@@ -67,8 +83,14 @@ In 2006, Mike Ripley became advisor for the UUG.
 * Eric Bartel - Secretary
 * Jim Blackburn - Treasurer 
 
-## 1999-2001
-The UUG constitution was authored by David Wilburn on October 25, 1999. The earliest references to the UUG receiving university recognition are in 2001.
+## 2000-2001
+* Brian Caswell - Vice President
+
+## 1999-2000
+The UUG constitution was authored by David Wilburn on October 25, 1999, and the first meetings were held that year. Scott Dellinger was the staff advisor.
+* David Wilburn - President
+* Brian Caswell - Vice President
+* Brenden Grace - Treasurer
 
 ## 1997
 The earliest UUG references are to the "Linux SIG" of the JMU ACM chapter. The original members were:
