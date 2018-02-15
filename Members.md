@@ -7,5 +7,7 @@
 | Mike Ripley   | 2002 - Present| 2003 - Present       |
 | Mike Lam (fac)| 2014 - Present| 2014 - Present       |
 | Gary McDonald | 2014 - 2018   | 2017 - Present       |
-| Kyle Laker    | 2015 - 2019   | 2016 - Present       |
+| Kyle Laker    | 2015 - Present| 2016 - Present       |
 | Rawaz Rahim   | 2015 - 2019   | 2017 - present       |
+| Mike McGloin  | 2016 - 2020   | 2016 - Present       |
+| Peter Shumate | 2016 - Present| 2017 - Present       |
