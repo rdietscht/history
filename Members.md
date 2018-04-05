@@ -18,3 +18,4 @@
 | Zamua Nasrawt | 2014 - 2018   | 2016 - Present       |
 | Nick Halvorsen| 2015 - 2019   | 2018 - Present       |
 | Ian Kenten    | 2015 - 2019   | 2017 - Present       |
+| Brittany Braswell | 2015-2019 | 2017 - Present       |
