@@ -1,5 +1,11 @@
 # Officers of the UUG
 
+## 2018-2019
+* Kyle Laker - President
+* Richard Bimmer - Vice President
+* Christy Kobert - Secretary
+* Mike McGloin - Treasurer
+
 ## 2017-2018
 * Kyle Laker - President
 * Richard Bimmer - Vice President
