@@ -19,3 +19,4 @@
 | Nick Halvorsen| 2015 - 2019   | 2018 - Present       |
 | Ian Kenten    | 2015 - 2019   | 2017 - Present       |
 | Brittany Braswell | 2015-2019 | 2017 - Present       |
+| Seth Wright   | 2006 - 2017   | 2007 - 2017          |
