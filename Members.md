@@ -20,3 +20,4 @@
 | Ian Kenten    | 2015 - 2019   | 2017 - Present       |
 | Brittany Braswell | 2015-2019 | 2017 - Present       |
 | Seth Wright   | 2006 - 2017   | 2007 - 2017          |
+| Ryan Showalter| 2018 - 2022   | 2018 - Present       |
