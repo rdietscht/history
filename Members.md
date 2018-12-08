@@ -20,5 +20,6 @@
 | Mike McGloin      | 2016 - 2020    | 2016 - Present       |
 | Peter Shumate     | 2016 - Present | 2017 - Present       |
 | Ryan Showalter    | 2018 - 2022    | 2018 - Present       |
+| Zach Tucker       | 2018 - Present | 2018 - Present       |            
 
 *Please add yourself sorted by Years at JMU, then alphabetical by last name.*
