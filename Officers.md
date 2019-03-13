@@ -1,5 +1,11 @@
 # Officers of the UUG
 
+## 2019-2020
+* Mike McGloin - President
+* Richard Bimmer - Vice President
+* Cole Nutter - Secretary
+* Ryan Showalter - Treasurer
+
 ## 2018-2019
 * Kyle Laker - President
 * Richard Bimmer - Vice President
