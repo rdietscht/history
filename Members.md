@@ -20,6 +20,7 @@
 | Mike McGloin      | 2016 - 2020    | 2016 - Present       |
 | Peter Shumate     | 2016 - Present | 2017 - Present       |
 | Bradley Fellstrom | 2018 - Present | 2018 - Present       |
+| Cole Nutter       | 2018 - 2022    | 2018 - Present       | 
 | Ryan Showalter    | 2018 - 2022    | 2018 - Present       |
 | Zach Tucker       | 2018 - Present | 2018 - Present       |            
 
