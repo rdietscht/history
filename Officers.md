@@ -1,6 +1,10 @@
 # Officers of the UUG
 
 ## 2019-2020
+
+The UUG constitution was rewritten to comply with new OSAI standards. This
+was the beginning of tracking constitution changes in a version control system.
+
 * Mike McGloin - President
 * Richard Bimmer - Vice President
 * Cole Nutter - Secretary
