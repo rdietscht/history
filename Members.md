@@ -5,6 +5,7 @@
 | Mike Ripley       | 2002 - Present | 2003 - Present       |
 | Mike Lam (stu)    | 2004 - 2007    | 2004 - 2007          |
 | Seth Wright       | 2006 - 2017    | 2007 - 2017          |
+| Andrew Elgert     | 2007 - 2011    | 2007 - 2011          |
 | Chris Frome       | 2014 - 2018    | 2016 - 2018          |
 | Mike Lam (fac)    | 2014 - Present | 2014 - Present       |
 | Gary McDonald     | 2014 - 2018    | 2017 - Present       |
