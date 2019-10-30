@@ -25,5 +25,6 @@
 | Cole Nutter       | 2018 - 2022    | 2018 - Present       |
 | Ryan Showalter    | 2018 - 2022    | 2018 - Present       |
 | Zach Tucker       | 2018 - Present | 2018 - Present       |
+| Max Berger        | 2019 - 2023    | 2019 - Present       |
 
 *Please add yourself sorted by Years at JMU, then alphabetical by last name.*
