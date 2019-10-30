@@ -15,7 +15,7 @@
 | Nick Halvorsen    | 2015 - 2019    | 2018 - Present       |
 | Ian Kenten        | 2015 - 2019    | 2017 - Present       |
 | Christy Kobert    | 2015 - 2019    | 2017 - Present       |
-| Kyle Laker        | 2015 - Present | 2016 - Present       |
+| Kyle Laker        | 2015 - 2019    | 2016 - 2019          |
 | Rawaz Rahim       | 2015 - 2019    | 2017 - present       |
 | Richard Bimmer    | 2016 - 2020    | 2016 - Present       |
 | Mike McGloin      | 2016 - 2020    | 2016 - Present       |
