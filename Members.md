@@ -28,6 +28,7 @@
 | Cole Nutter       | 2018 - 2022    | 2018 - Present       |
 | Ryan Showalter    | 2018 - 2022    | 2018 - Present       |
 | Zach Tucker       | 2018 - Present | 2018 - Present       |
+| Jacob Bringham    | 2019 - Present | 2019 - Present       |
 | George Tisdelle   | 2019 - Present | 2019 - Present       |
 
 *Please add yourself sorted by Years at JMU, then alphabetical by last name.*
