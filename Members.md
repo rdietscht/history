@@ -20,10 +20,14 @@
 | Richard Bimmer    | 2016 - 2020    | 2016 - Present       |
 | Mike McGloin      | 2016 - 2020    | 2016 - Present       |
 | Peter Shumate     | 2016 - Present | 2017 - Present       |
+| Jack Twomey       | 2017 - Present | 2019 - Present       |
+| Carley Belknap    | 2018 - Present | 2019 - Present       |
 | Bradley Fellstrom | 2018 - Present | 2018 - Present       |
 | Aric Flor         | 2018 - Present | 2018 - Present       |
+| Stephen Mitchell  | 2018 - 2022    | 2019 - Present       |
 | Cole Nutter       | 2018 - 2022    | 2018 - Present       |
 | Ryan Showalter    | 2018 - 2022    | 2018 - Present       |
 | Zach Tucker       | 2018 - Present | 2018 - Present       |
-| Jack Twomey       | 2017 - Present | 2019 - Present       |
+| George Tisdelle   | 2019 - Present | 2019 - Present       |
+
 *Please add yourself sorted by Years at JMU, then alphabetical by last name.*
