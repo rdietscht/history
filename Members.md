@@ -21,6 +21,7 @@
 | Mike McGloin      | 2016 - 2020    | 2016 - Present       |
 | Peter Shumate     | 2016 - Present | 2017 - Present       |
 | Jack Twomey       | 2017 - Present | 2019 - Present       |
+| Grace Bailey      | 2018 - Present | 2020 - Present       |
 | Carley Belknap    | 2018 - Present | 2019 - Present       |
 | Bradley Fellstrom | 2018 - Present | 2018 - Present       |
 | Aric Flor         | 2018 - Present | 2018 - Present       |
