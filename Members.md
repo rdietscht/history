@@ -31,5 +31,6 @@
 | Max Berger        | 2019 - 2023    | 2019 - Present       |
 | Jacob Bringham    | 2019 - Present | 2019 - Present       |
 | George Tisdelle   | 2019 - Present | 2019 - Present       |
+| Grace Bailey      | 2018 - Present | 2020 - Present       |
 
 *Please add yourself sorted by Years at JMU, then alphabetical by last name.*
