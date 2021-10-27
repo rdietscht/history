@@ -37,7 +37,7 @@
 | Collin Dutt       | 2019 - Present | 2021 - Present       |
 | George Tisdelle   | 2019 - Present | 2019 - Present       |
 | Amos Ludwig       | 2020 - Present | 2020 - Present       |
-| Matthew Wong	    | 2020 - Present | 2021 - Present	      |
+| Matthew Wong	    | 2020 - Present | 2021 - Present       |
 | Martin Nester     | 2021 - Present | 2021 - Present       |
 
 *Please add yourself sorted by Years at JMU, then alphabetical by last name.*
