@@ -1,5 +1,22 @@
 # Officers of the UUG
 
+## 2021-2022
+
+* Ryan Showalter - President
+* Cole Nutter - Vice President
+* Bradley Fellstrom - Secretary
+* Carley Belknap - Treasurer
+
+## 2020-2021
+
+Due to the COVID-19 pandemic, this was the first election completed online,
+and the first to use ranked-choice voting.
+
+* Ryan Showalter - President
+* Cole Nutter - Vice President
+* Brad(ley) Fellstrom - Secretary
+* Carley Belknap - Treasurer
+
 ## 2019-2020
 
 The UUG constitution was rewritten to comply with new OSAI standards. This
