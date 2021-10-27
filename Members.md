@@ -25,6 +25,7 @@
 | Carley Belknap    | 2018 - Present | 2019 - Present       |
 | Bradley Fellstrom | 2018 - Present | 2018 - Present       |
 | Aric Flor         | 2018 - Present | 2018 - Present       |
+| Riley Harbick     | 2018 - 2022    | 2019 - Present       |
 | Chad Martin       | 2018 - Present | 2021 - Present       |
 | Stephen Mitchell  | 2018 - 2022    | 2019 - Present       |
 | Cole Nutter       | 2018 - 2022    | 2018 - Present       |
