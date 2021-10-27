@@ -26,12 +26,14 @@
 | Bradley Fellstrom | 2018 - Present | 2018 - Present       |
 | Aric Flor         | 2018 - Present | 2018 - Present       |
 | Riley Harbick     | 2018 - 2022    | 2019 - Present       |
+| Chad Martin       | 2018 - Present | 2021 - Present       |
 | Stephen Mitchell  | 2018 - 2022    | 2019 - Present       |
 | Cole Nutter       | 2018 - 2022    | 2018 - Present       |
 | Ryan Showalter    | 2018 - 2022    | 2018 - Present       |
 | Zach Tucker       | 2018 - Present | 2018 - Present       |
 | Max Berger        | 2019 - 2023    | 2019 - Present       |
 | Jacob Bringham    | 2019 - Present | 2019 - Present       |
+| Collin Dutt       | 2019 - Present | 2021 - Present       |
 | George Tisdelle   | 2019 - Present | 2019 - Present       |
 | Amos Ludwig       | 2020 - Present | 2020 - Present       |
 
