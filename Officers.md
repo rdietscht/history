@@ -1,5 +1,12 @@
 # Officers of the UUG
 
+## 2021-2022
+
+* Ryan Showalter - President
+* Cole Nutter - Vice President
+* Bradley Fellstrom - Secretary
+* Carley Belknap - Treasurer
+
 ## 2020-2021
 
 Due to the COVID-19 pandemic, this was the first election completed online,
