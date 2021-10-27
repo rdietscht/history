@@ -30,7 +30,7 @@
 | Stephen Mitchell  | 2018 - 2022    | 2019 - Present       |
 | Cole Nutter       | 2018 - 2022    | 2018 - Present       |
 | Ryan Showalter    | 2018 - 2022    | 2018 - Present       |
-| Zach Tucker       | 2018 - Present | 2018 - Present       |
+| Zachary Tucker    | 2018 - 2022    | 2018 - Present       |
 | Max Berger        | 2019 - 2023    | 2019 - Present       |
 | Jacob Bringham    | 2019 - Present | 2019 - Present       |
 | Collin Dutt       | 2019 - Present | 2021 - Present       |
