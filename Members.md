@@ -31,6 +31,7 @@
 | Zach Tucker       | 2018 - Present | 2018 - Present       |
 | Max Berger        | 2019 - 2023    | 2019 - Present       |
 | Jacob Bringham    | 2019 - Present | 2019 - Present       |
+| Collin Dutt       | 2019 - Present | 2021 - Present       |
 | George Tisdelle   | 2019 - Present | 2019 - Present       |
 | Amos Ludwig       | 2020 - Present | 2020 - Present       |
 
