@@ -1,9 +1,16 @@
 # Officers of the UUG
 
+## 2022-2023
+
+* Dean Ludwig - President
+* Ben Eastwood - Vice President
+* Martin Nester - Secretary
+* Ryan Miller - Treasurer
+
 ## 2021-2022
 
 * Ryan Showalter - President
-* Cole Nutter - Vice President
+* Cole David - Vice President
 * Bradley Fellstrom - Secretary
 * Carley Belknap - Treasurer
 
