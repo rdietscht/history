@@ -4,7 +4,8 @@
 
 * Dean Ludwig - President
 * Ben Eastwood - Vice President
-* Martin Nester - Secretary
+* ~~Martin Nester~~ - Secretary
+* Emil Hofstetter - Secretary
 * Ryan Miller - Treasurer
 
 ## 2021-2022
