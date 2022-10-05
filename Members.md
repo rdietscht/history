@@ -44,6 +44,7 @@
 | Jackson Darman    | 2022 - Present | 2022 - Present       |
 | Rafael Dietsch    | 2022 - Present | 2022 - Present       |
 | Robert Frimel     | 2022 - Present | 2002 - Present       |
+| Jacob Grimes      | 2022 - Present | 2022 - Present       |
 | Ryan Miller       | 2022 - Present | 2022 - Present       |
 | Ray Steen         | 2022 - Present | 2022 - Present       |
 
