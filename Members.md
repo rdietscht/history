@@ -42,6 +42,7 @@
 | Matthew Wong	    | 2020 - Present | 2020 - Present       |
 | Martin Nester     | 2021 - Present | 2021 - Present       |
 | Jackson Darman    | 2022 - Present | 2022 - Present       |
+| Robert Frimel     | 2022 - Present | 2002 - Present       |
 | Ryan Miller       | 2022 - Present | 2022 - Present       |
 | Ray Steen         | 2022 - Present | 2022 - Present       |
 
