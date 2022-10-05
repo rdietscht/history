@@ -40,5 +40,5 @@
 | Matthew Wong	    | 2020 - Present | 2020 - Present       |
 | Martin Nester     | 2021 - Present | 2021 - Present       |
 | Jackson Darman    | 2022 - Present | 2022 - Present       |
-
+| Jacob Grimes      | 2022 - Present | 2022 - Present       |
 *Please add yourself sorted by Years at JMU, then alphabetical by last name.*
